@@ -28,6 +28,9 @@ Carefully curated list of various organizations (working in the domain of comput
 - [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
 - [She++ Campus Ambassador](http://www.sheplusplus.com/ambassadors/)
 - [InterviewBit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
+- [Google Developer Student Clubs Lead](https://developers.google.com/community/gdsc/leads)
+- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
+
 
 ### Adjust these:
 - https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
@@ -74,16 +77,7 @@ Carefully curated list of various organizations (working in the domain of comput
 - [Civo Ambassador](https://www.civo.com/ambassadors)
 - [Auth0 Ambassador](https://auth0.com/ambassador-program)
 - [GitKraken Ambassador](https://www.gitkraken.com/ambassador)
-- [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
-- [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
-- [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
 
-
-##### For Students
-
-- [Google Developer Student Clubs Lead](https://developers.google.com/community/gdsc/leads)
-- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
-- [GitHub Campus Expert](https://education.github.com/experts)
 
 
 
