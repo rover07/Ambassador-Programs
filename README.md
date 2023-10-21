@@ -33,7 +33,7 @@ Carefully curated list of various organizations (working in the domain of comput
 
 
 ### Adjust these:
-- https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
+- [Microsoft Reinforcement Learning Open-Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 - https://github.com/cncf/mentoring
 - https://mentorship.lfx.linuxfoundation.org/#projects_all
 - https://developers.google.com/season-of-docs
