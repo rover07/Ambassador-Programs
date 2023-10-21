@@ -30,9 +30,7 @@ Carefully curated list of various organizations (working in the domain of comput
 - [InterviewBit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 - [Google Developer Student Clubs Lead](https://developers.google.com/community/gdsc/leads)
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
-
-
-### Adjust these:
+- 
 - [Microsoft Reinforcement Learning Open-Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 - [CNCF Mentoring](https://github.com/cncf/mentoring)
 - [Linux Foundation Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all)
@@ -60,6 +58,7 @@ Carefully curated list of various organizations (working in the domain of comput
 - [KubeSimplify Ambassadors](https://kubesimplify.com/ambassadors/)
 - [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 - [KodeKloud Ambassador Program](https://kodekloud.com/pages/ambassador-program#Who-is-eligible)
+
 
 
 #### For Professionals
