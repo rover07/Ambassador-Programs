@@ -1,7 +1,7 @@
 # Ambassador-Program
 This repository contains list of Ambassador programs for Developers and Students.
 
-# Awesome list of technology related champion, ambassador, advocate, most valuable professional (MVP) programs.
+## Awesome list of technology related champion, ambassador, advocate, most valuable professional (MVP) programs.
 
 # Note
 Feel free to fork it and start your own.
