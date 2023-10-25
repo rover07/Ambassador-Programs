@@ -1,13 +1,13 @@
 # Ambassador-Program
-This repository contains list of Ambassador programs for Developers and Students.
+This repository contains the list of Ambassador programs for Developers and Students.
 
-## Awesome list of technology related champion, ambassador, advocate, most valuable professional (MVP) programs.
+## Awesome list of technology-related champions, ambassadors, advocates, and most valuable professional (MVP) programs.
 
 # Note
 Feel free to fork it and start your own.
 
 # What is this?
-Carefully curated list of various organizations (working in the domain of computer science) that offer campus ambassador positions to grads/undergrads.
+A carefully curated list of various organizations (working in the domain of computer science) that offer campus ambassador positions to grads/undergrads.
 
 
 ## Content
@@ -83,4 +83,3 @@ Carefully curated list of various organizations (working in the domain of comput
 ## Contributing
 PRs are welcome, just make sure that the campus ambassador program is offered by an organization working in the domain of computer science.
 
-To the extent possible under law, [Palash Nigam]() has waived all copyright and related or neighboring rights to this work.
