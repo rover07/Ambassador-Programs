@@ -9,7 +9,6 @@ Feel free to fork it and start your own.
 # What is this?
 A carefully curated list of various organizations (working in the domain of computer science) that offer campus ambassador positions to grads/undergrads.
 
-
 ## Content
 - [GitHub Campus Experts](https://education.github.com/experts)
 - [Mozilla Club Captain](https://mozilla.teachable.com/p/mozilla-club-training)
@@ -28,7 +27,6 @@ A carefully curated list of various organizations (working in the domain of comp
 - [InterviewBit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 - [Google Developer Student Clubs Lead](https://developers.google.com/community/gdsc/leads)
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
-- 
 - [Microsoft Reinforcement Learning Open-Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 - [CNCF Mentoring](https://github.com/cncf/mentoring)
 - [Linux Foundation Mentorship](https://mentorship.lfx.linuxfoundation.org/#projects_all)
@@ -57,10 +55,7 @@ A carefully curated list of various organizations (working in the domain of comp
 - [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 - [KodeKloud Ambassador Program](https://kodekloud.com/pages/ambassador-program#Who-is-eligible)
 
-
-
 #### For Professionals
-
 - [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
 - [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
 - [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
@@ -75,9 +70,5 @@ A carefully curated list of various organizations (working in the domain of comp
 - [Auth0 Ambassador](https://auth0.com/ambassador-program)
 - [GitKraken Ambassador](https://www.gitkraken.com/ambassador)
 
-
-
-
 ## Contributing
-PRs are welcome, just make sure that the campus ambassador program is offered by an organization working in the domain of computer science.
-
+PRs are welcome, make sure that the campus ambassador program is offered by an organization working in the domain of computer science.
